@@ -11,4 +11,4 @@ Please refer below steps for How to broadcast azure notification from your appli
 
 Thats all you need to do to enable serverless notification functioanlity.  
 
-I would like to help you incase of anything so please email me on amolgaikwad1323@gmail.com.
+ 
